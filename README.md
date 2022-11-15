@@ -17,7 +17,3 @@ import getFileSpecs from 'dtuploader';
       fileSpecs.getDimensions(fileDimension);
       console.log(type, extension, size)
  
- 
- 
-
-```js
